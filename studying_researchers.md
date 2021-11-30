@@ -1,6 +1,5 @@
 ---
 title: Studying researchers as learners
-theme: night
 revealOptions:
   transition: none
   navigationMode: linear
